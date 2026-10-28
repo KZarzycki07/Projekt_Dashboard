@@ -1,0 +1,41 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  border: 1px gray dotted;
+}
+
+li {
+  border: 2px black dashed;
+  padding: 12px;
+  margin-top: 22px;
+
+}
+
+button {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#flex {
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+form {
+  display: flex;
+flex-direction: column;
+gap: 30px;
+background-color: rgb(118, 117, 117);
+padding: 40px;
+border-radius: 20px;
+}
+
